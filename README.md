@@ -84,5 +84,3 @@ Remember, the key to successful software development lies in following best prac
 Happy coding!
 
 ---
-
-Feel free to customize and expand upon this document to match your organization's specific requirements and workflows.
