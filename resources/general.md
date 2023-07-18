@@ -93,9 +93,7 @@
 
 ### Encoders and Drive Controllers
 
-- [What is an Encoder?](https://www.youtube.com/watch?v
-
-=4m2KoQm22Qk)
+- [What is an Encoder?](https://www.youtube.com/watch?v=4m2KoQm22Qk)
 - [RealPars YouTube Channel](https://www.youtube.com/c/RealPars)
 - [What is Sensor Calibration and Why is it Important?](https://www.youtube.com/watch?v=78czW8Gdvtw)
 
