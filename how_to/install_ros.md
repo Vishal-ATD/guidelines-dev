@@ -1,5 +1,3 @@
-Certainly! Here's a revised version of the detailed instruction on how to install ROS and include the installation of build dependencies using Python tools:
-
 ## Step 1: System Requirements
 Before installing ROS, ensure that your system meets the following requirements:
 - Ubuntu: ROS is primarily supported on Ubuntu Linux distributions. Check the ROS documentation for the specific Ubuntu version compatible with the ROS distribution you plan to install.
