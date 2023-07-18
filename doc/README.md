@@ -1,4 +1,4 @@
-# Google documentation guide
+# documentation guide
 
 * [Markdown styleguide](markdown_style.md)
 * [Best practices](best_practices.md)
